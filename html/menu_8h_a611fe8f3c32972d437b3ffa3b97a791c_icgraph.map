@@ -1,0 +1,6 @@
+<map id="MENU_clear" name="MENU_clear">
+<area shape="rect" id="node1" title="Clear screen." alt="" coords="279,31,373,56"/>
+<area shape="rect" id="node2" href="$menu_8c.html#ae68006c2366dda3e55bad9ee75d7a0eb" title="Set Layout for all values." alt="" coords="104,5,231,31"/>
+<area shape="rect" id="node4" href="$menu_8c.html#a8429b0d30aa49837fbab9d3e1ab0d2ed" title="Initialize visual Interface." alt="" coords="106,55,229,80"/>
+<area shape="rect" id="node3" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main function." alt="" coords="5,31,56,56"/>
+</map>

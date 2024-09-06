@@ -1,0 +1,7 @@
+<map id="BUZZER_play_melody" name="BUZZER_play_melody">
+<area shape="rect" id="node1" title="Play Nokia ringtone." alt="" coords="5,55,157,80"/>
+<area shape="rect" id="node2" href="$buzzer_8c.html#a680f2c11b48eafa096d5ecb4acad62c4" title="Set a frequency." alt="" coords="205,55,340,80"/>
+<area shape="rect" id="node3" href="$buzzer_8c.html#a59836d169277185192235651ceabb937" title="Set a frequency." alt="" coords="388,5,513,31"/>
+<area shape="rect" id="node4" href="$buzzer_8c.html#a9ee94e5de99bb735284b1d5cda52296c" title="Turn the buzzer off." alt="" coords="390,55,511,80"/>
+<area shape="rect" id="node5" href="$buzzer_8c.html#ab73158a3665d3ad515b7e638cda2ab2c" title="Turn the buzzer on." alt="" coords="389,104,512,129"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Src/measuring.c" name="Src/measuring.c">
+<area shape="rect" id="node1" title="Measuring voltages with the ADC(s) in different configurations." alt="" coords="404,5,521,31"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,86,67,111"/>
+<area shape="rect" id="node3" title=" " alt="" coords="91,86,184,111"/>
+<area shape="rect" id="node4" title=" " alt="" coords="208,86,365,111"/>
+<area shape="rect" id="node5" title=" " alt="" coords="389,79,536,119"/>
+<area shape="rect" id="node6" title=" " alt="" coords="561,86,735,111"/>
+<area shape="rect" id="node7" href="$measuring_8h.html" title="See measuring.c." alt="" coords="760,86,853,111"/>
+<area shape="rect" id="node9" href="$main_8h.html" title="See main.c." alt="" coords="877,86,939,111"/>
+<area shape="rect" id="node8" title=" " alt="" coords="769,167,844,192"/>
+</map>

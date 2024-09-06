@@ -1,0 +1,45 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Main function." alt="" coords="5,701,56,727"/>
+<area shape="rect" id="node2" href="$buzzer_8c.html#aac13d7b81a13b3c86a6a9b10acbcf145" title="Check state of Buzzer." alt="" coords="118,5,258,31"/>
+<area shape="rect" id="node3" href="$buzzer_8c.html#a68f6dbcd53b3d88aaa925588daba83d8" title="Initialize Buzzer." alt="" coords="140,55,236,80"/>
+<area shape="rect" id="node4" href="$buzzer_8c.html#a5f2104c8b5aaa9752e5fa799777fcedd" title="Play Nokia ringtone." alt="" coords="112,156,264,181"/>
+<area shape="rect" id="node7" href="$buzzer_8c.html#a9ee94e5de99bb735284b1d5cda52296c" title="Turn the buzzer off." alt="" coords="563,107,685,132"/>
+<area shape="rect" id="node8" href="$buzzer_8c.html#ab73158a3665d3ad515b7e638cda2ab2c" title="Turn the buzzer on." alt="" coords="563,207,685,232"/>
+<area shape="rect" id="node9" href="$buzzer_8c.html#a183503979863996161b2e21eaab253d6" title="Set a note." alt="" coords="123,257,253,283"/>
+<area shape="rect" id="node10" href="$calculations_8c.html#a2fc270c468765fb3fdc40855a172066b" title="Calculate angle, X and Y Position of the cable, from the FFT value." alt="" coords="137,307,239,332"/>
+<area shape="rect" id="node21" href="$calculations_8c.html#a2577037636e788a0319a4a8dc11a5a7a" title="Initialisation for the FFT function." alt="" coords="153,356,223,381"/>
+<area shape="rect" id="node22" href="$calculations_8c.html#aa11c63680c3ea8ff9be71ffc277df7a6" title="Returns the angle." alt="" coords="149,405,227,431"/>
+<area shape="rect" id="node23" href="$calculations_8c.html#a678870043a14e04e206d6e4d45048ef4" title="Returns the current." alt="" coords="145,455,231,480"/>
+<area shape="rect" id="node24" href="$calculations_8c.html#a2eeb1acf568c7079a0a813a00e453e1e" title="Returns the X position." alt="" coords="146,504,230,529"/>
+<area shape="rect" id="node25" href="$calculations_8c.html#ac71e22d8d3ede588487567590fbfd5fa" title="Returns the Y position." alt="" coords="145,553,231,579"/>
+<area shape="rect" id="node26" href="$main_8c.html#a9506db1724e530dd11bccbdd8968998f" title="Disable the onboard gyroscope." alt="" coords="141,603,235,628"/>
+<area shape="rect" id="node27" href="$measuring_8c.html#a645930ff74ceaacb90aca99fae865f8f" title="Configure GPIOs in analog mode." alt="" coords="104,652,272,677"/>
+<area shape="rect" id="node28" href="$measuring_8c.html#a2ace7017c3957ead5cd587fc6fae0290" title="Configure the timer to trigger the ADC(s)" alt="" coords="128,701,248,727"/>
+<area shape="rect" id="node29" href="$menu_8c.html#a88e016ed6bb3eb9cfe66a3009bc6fbcf" title="Check for selection/transition." alt="" coords="107,751,269,776"/>
+<area shape="rect" id="node30" href="$menu_8c.html#a2cbb4c209c599e91da57c0d6cf8f710e" title="Draw the menu onto the display." alt="" coords="141,800,235,825"/>
+<area shape="rect" id="node31" href="$menu_8c.html#a473a8c438e8077ed123e9cb87e60c1ed" title="Shows when no function is available." alt="" coords="137,849,239,875"/>
+<area shape="rect" id="node32" href="$menu_8c.html#a3de77014a7c52cdf6ff1f973eee6f3f6" title="Get menu selection/transition." alt="" coords="115,899,261,924"/>
+<area shape="rect" id="node33" href="$menu_8c.html#a62e02a141652e1f34b11f73547ce6bc2" title="Shows a hint at startup." alt="" coords="144,948,232,973"/>
+<area shape="rect" id="node34" href="$menu_8c.html#ae3dd1c8dc696e17330aa00c16572d059" title="Display actual values." alt="" coords="124,997,252,1023"/>
+<area shape="rect" id="node35" href="$menu_8c.html#ae68006c2366dda3e55bad9ee75d7a0eb" title="Set Layout for all values." alt="" coords="125,1145,251,1171"/>
+<area shape="rect" id="node37" href="$menu_8c.html#af47d5045b8db725df12dcc74c6a3547e" title="Display a visualized position to the cable." alt="" coords="126,1096,250,1121"/>
+<area shape="rect" id="node38" href="$menu_8c.html#a8429b0d30aa49837fbab9d3e1ab0d2ed" title="Initialize visual Interface." alt="" coords="127,1047,249,1072"/>
+<area shape="rect" id="node39" href="$pushbutton_8c.html#a1d6696a09e34d517e04ff82f792baf57" title="Configure interrupt on rising edge for the USER pushbutton." alt="" coords="135,1195,241,1220"/>
+<area shape="rect" id="node40" href="$pushbutton_8c.html#a6efe94714ab265a5e515c7266d234917" title="Configure the GPIO for the USER pushbutton." alt="" coords="156,1244,220,1269"/>
+<area shape="rect" id="node41" href="$pushbutton_8c.html#ab920dbc364e7b33bb9186ac45ae1a332" title="Was the pushbutton pressed?" alt="" coords="141,1293,235,1319"/>
+<area shape="rect" id="node42" href="$measuring_8c.html#af21dcc5bc6f998d2d436876a2e4aa14f" title=" " alt="" coords="113,1343,263,1368"/>
+<area shape="rect" id="node43" href="$main_8c.html#ad554cbf06ce0fa6f92a0c4152b8a4c64" title="System Clock Configuration." alt="" coords="117,1392,259,1417"/>
+<area shape="rect" id="node5" href="$buzzer_8c.html#a680f2c11b48eafa096d5ecb4acad62c4" title="Set a frequency." alt="" coords="340,156,475,181"/>
+<area shape="rect" id="node6" href="$buzzer_8c.html#a59836d169277185192235651ceabb937" title="Set a frequency." alt="" coords="561,156,687,181"/>
+<area shape="rect" id="node11" href="$measuring_8c.html#a4e76bf488f4e0c67e5db6e9c2d2e5813" title="Initialise the ADC to be triggered by a timer." alt="" coords="336,455,479,480"/>
+<area shape="rect" id="node12" href="$measuring_8c.html#ae5ffaeaedb181995f259a61ec05240ee" title="Start the ADC and the timer." alt="" coords="332,504,483,529"/>
+<area shape="rect" id="node13" href="$calculations_8c.html#a26fa7bb8f1057136463eb0ca3852b58d" title="Calculate the current." alt="" coords="347,553,468,579"/>
+<area shape="rect" id="node14" href="$calculations_8c.html#ae85cc6a6b7f5a18091c7575508edc5fa" title="Transformers the ADC samples in to the frequency domain with a FFT." alt="" coords="355,257,459,283"/>
+<area shape="rect" id="node17" href="$calculations_8c.html#a91f9328a506206c333a0c6f5fe38e312" title="Checks if the X_Pos and the Y_Pos are not too large to be displayed on the Screen." alt="" coords="320,307,495,332"/>
+<area shape="rect" id="node18" href="$calculations_8c.html#adc56fd2039d8156d89775bc177be10f5" title="Clearing all four ADS samples arrays." alt="" coords="362,356,453,381"/>
+<area shape="rect" id="node19" href="$calculations_8c.html#a7f13fc088b583c68a82faa3fecb15d55" title="Splits the ADC_Samples array from measuring.c into four arrays." alt="" coords="365,405,449,431"/>
+<area shape="rect" id="node15" href="$calculations_8c.html#a8a87642323d7b62559f07dbd61786cc2" title="Averaging several FFT output values for each pad and Hall sensor." alt="" coords="543,257,705,283"/>
+<area shape="rect" id="node16" href="$calculations_8c.html#ad820a1efb7e9dc28d5da28e1775ccf42" title="Determines the distance of the cable to the pads from a look&#45;up table." alt="" coords="753,257,855,283"/>
+<area shape="rect" id="node20" href="$measuring_8c.html#aa1e0069918da15a659aff8b73201e93a" title="returns the ADC_samples" alt="" coords="558,405,690,431"/>
+<area shape="rect" id="node36" href="$menu_8c.html#a611fe8f3c32972d437b3ffa3b97a791c" title="Clear screen." alt="" coords="360,1096,455,1121"/>
+</map>

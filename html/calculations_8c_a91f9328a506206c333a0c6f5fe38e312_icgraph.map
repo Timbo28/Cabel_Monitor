@@ -1,0 +1,5 @@
+<map id="check_display_bounderies" name="check_display_bounderies">
+<area shape="rect" id="node1" title="Checks if the X_Pos and the Y_Pos are not too large to be displayed on the Screen." alt="" coords="255,5,429,31"/>
+<area shape="rect" id="node2" href="$calculations_8c.html#a2fc270c468765fb3fdc40855a172066b" title="Calculate angle, X and Y Position of the cable, from the FFT value." alt="" coords="104,5,207,31"/>
+<area shape="rect" id="node3" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main function." alt="" coords="5,5,56,31"/>
+</map>

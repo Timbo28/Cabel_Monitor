@@ -1,0 +1,5 @@
+<map id="Inc/buzzer.h" name="Inc/buzzer.h">
+<area shape="rect" id="node1" title="See buzzer.c." alt="" coords="64,5,157,31"/>
+<area shape="rect" id="node2" href="$buzzer_8c.html" title="Initializes and controls the buzzer." alt="" coords="5,79,101,104"/>
+<area shape="rect" id="node3" href="$main_8c.html" title="Sets up the microcontroller, the clock system and the peripherals." alt="" coords="125,79,211,104"/>
+</map>

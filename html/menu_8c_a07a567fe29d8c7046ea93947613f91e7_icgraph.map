@@ -1,0 +1,5 @@
+<map id="MENU_no_cable" name="MENU_no_cable">
+<area shape="rect" id="node1" title="Loadingscreen." alt="" coords="276,5,395,31"/>
+<area shape="rect" id="node2" href="$menu_8c.html#a02578e8e78131aea10c50dded7689afd" title="Display a visualized position to the cable." alt="" coords="104,5,228,31"/>
+<area shape="rect" id="node3" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main function." alt="" coords="5,5,56,31"/>
+</map>

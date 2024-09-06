@@ -1,0 +1,13 @@
+../Core/Src/menu.c:51:6:MENU_values_init	16	static
+../Core/Src/menu.c:86:6:MENU_values_act	80	static
+../Core/Src/menu.c:148:6:MENU_visual_init	16	static
+../Core/Src/menu.c:176:6:MENU_visual_act	64	static
+../Core/Src/menu.c:245:6:MENU_draw	40	static
+../Core/Src/menu.c:269:6:MENU_hint	8	static
+../Core/Src/menu.c:298:6:MENU_empty	8	static
+../Core/Src/menu.c:313:6:MENU_clear	16	static
+../Core/Src/menu.c:327:6:MENU_set_entry	24	static
+../Core/Src/menu.c:340:14:MENU_get_entry	64	static
+../Core/Src/menu.c:359:13:MENU_get_transition	16	static
+../Core/Src/menu.c:377:6:MENU_check_transition	16	static
+../Core/Src/menu.c:450:6:EXTI15_10_IRQHandler	8	static

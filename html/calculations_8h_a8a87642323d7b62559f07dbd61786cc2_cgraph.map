@@ -1,0 +1,4 @@
+<map id="averaging_FFT_semples" name="averaging_FFT_semples">
+<area shape="rect" id="node1" title="Averaging several FFT output values for each pad and Hall sensor." alt="" coords="5,5,168,31"/>
+<area shape="rect" id="node2" href="$calculations_8c.html#ad820a1efb7e9dc28d5da28e1775ccf42" title="Determines the distance of the cable to the pads from a look&#45;up table." alt="" coords="216,5,317,31"/>
+</map>

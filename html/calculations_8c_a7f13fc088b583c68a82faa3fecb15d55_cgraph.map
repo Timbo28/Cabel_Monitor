@@ -1,0 +1,4 @@
+<map id="split_Array" name="split_Array">
+<area shape="rect" id="node1" title="Splits the ADC_Samples array from measuring.c into four arrays." alt="" coords="5,5,89,31"/>
+<area shape="rect" id="node2" href="$measuring_8c.html#aa1e0069918da15a659aff8b73201e93a" title="returns the ADC_samples" alt="" coords="137,5,269,31"/>
+</map>

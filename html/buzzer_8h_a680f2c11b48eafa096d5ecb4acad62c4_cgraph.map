@@ -1,0 +1,6 @@
+<map id="BUZZER_play_note" name="BUZZER_play_note">
+<area shape="rect" id="node1" title="Set a frequency." alt="" coords="5,55,140,80"/>
+<area shape="rect" id="node2" href="$buzzer_8c.html#a59836d169277185192235651ceabb937" title="Set a frequency." alt="" coords="188,5,313,31"/>
+<area shape="rect" id="node3" href="$buzzer_8c.html#a9ee94e5de99bb735284b1d5cda52296c" title="Turn the buzzer off." alt="" coords="190,55,311,80"/>
+<area shape="rect" id="node4" href="$buzzer_8c.html#ab73158a3665d3ad515b7e638cda2ab2c" title="Turn the buzzer on." alt="" coords="189,104,312,129"/>
+</map>

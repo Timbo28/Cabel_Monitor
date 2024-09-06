@@ -1,0 +1,28 @@
+digraph "Calculate_pos"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [label="Calculate_pos",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [color="steelblue1",style="solid"];
+  Node2 [label="ADC3_IN4_timer_init",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$measuring_8c.html#a4e76bf488f4e0c67e5db6e9c2d2e5813",tooltip="Initialize the ADC to be triggered by a timer."];
+  Node1 -> Node3 [color="steelblue1",style="solid"];
+  Node3 [label="ADC3_IN4_timer_start",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$measuring_8c.html#ae5ffaeaedb181995f259a61ec05240ee",tooltip="Start the ADC and the timer."];
+  Node1 -> Node4 [color="steelblue1",style="solid"];
+  Node4 [label="Calculate_FFT",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$calculations_8c.html#a5eeedc14b7e26cf3a1bc163035e049d0",tooltip=" "];
+  Node4 -> Node5 [color="steelblue1",style="solid"];
+  Node5 [label="distance_LUT",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$calculations_8c.html#ad820a1efb7e9dc28d5da28e1775ccf42",tooltip=" "];
+  Node1 -> Node6 [color="steelblue1",style="solid"];
+  Node6 [label="Clear_Buffer",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$calculations_8c.html#a9b463e4ef11de3cf961c1d8fdb73cc01",tooltip=" "];
+  Node1 -> Node7 [color="steelblue1",style="solid"];
+  Node7 [label="get_current",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$calculations_8c.html#a678870043a14e04e206d6e4d45048ef4",tooltip=" "];
+  Node7 -> Node4 [color="steelblue1",style="solid"];
+  Node7 -> Node6 [color="steelblue1",style="solid"];
+  Node7 -> Node8 [color="steelblue1",style="solid"];
+  Node8 [label="Split_Array",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$calculations_8c.html#a8616f32de853aac9b1476975caf6fee0",tooltip=" "];
+  Node8 -> Node9 [color="steelblue1",style="solid"];
+  Node9 [label="MEAS_return_data",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$measuring_8c.html#aa1e0069918da15a659aff8b73201e93a",tooltip="returns the ADC_samples"];
+  Node1 -> Node8 [color="steelblue1",style="solid"];
+}

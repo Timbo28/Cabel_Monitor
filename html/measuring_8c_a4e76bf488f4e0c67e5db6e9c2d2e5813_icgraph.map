@@ -1,0 +1,5 @@
+<map id="ADC3_IN4_timer_init" name="ADC3_IN4_timer_init">
+<area shape="rect" id="node1" title="Initialise the ADC to be triggered by a timer." alt="" coords="255,5,397,31"/>
+<area shape="rect" id="node2" href="$calculations_8c.html#a2fc270c468765fb3fdc40855a172066b" title="Calculate angle, X and Y Position of the cable, from the FFT value." alt="" coords="104,5,207,31"/>
+<area shape="rect" id="node3" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main function." alt="" coords="5,5,56,31"/>
+</map>

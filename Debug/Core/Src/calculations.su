@@ -1,0 +1,13 @@
+../Core/Src/calculations.c:126:5:get_X_Pos	4	static
+../Core/Src/calculations.c:136:5:get_Y_Pos	4	static
+../Core/Src/calculations.c:146:5:get_angle	8	static
+../Core/Src/calculations.c:156:7:get_current	4	static
+../Core/Src/calculations.c:168:6:calculate_pos	64	static
+../Core/Src/calculations.c:247:6:calculate_current	16	static
+../Core/Src/calculations.c:275:6:check_display_bounderies	16	static
+../Core/Src/calculations.c:293:6:calculate_FFT	24	static
+../Core/Src/calculations.c:320:6:averaging_FFT_semples	16	static
+../Core/Src/calculations.c:354:6:distance_LUT	24	static
+../Core/Src/calculations.c:393:6:split_Array	32	static
+../Core/Src/calculations.c:418:6:FFT_Init	8	static
+../Core/Src/calculations.c:426:6:clear_Buffer	16	static

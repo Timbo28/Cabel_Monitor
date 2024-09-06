@@ -1,0 +1,41 @@
+/**
+@page	user_interface User Interface
+@brief	Describes how to operate the user interface.
+	
+Hint
+======
+Once power is applied to the board, all controls are briefly described.
+@n	Pressing the black button triggers a system restart.
+@n	Pressing the blue button turns the buzzer on or off, when the buzzer is switched on, a red LED lights up constantly.
+@n	The buzzer is switched off by default and when turned on, only emits a sound when a cable is nearby.
+@n	The measurement can be started by pressing the lower two controls "Average Measurement" or "Singel Measurement".
+@n	As soon as the measurements are running, the visual feedback can be changed by tapping in the center of the screen.
+
+@image html cable_monitor_hint.png width=20%
+
+Graphic
+======
+
+Once a measurement type is selected, the orientanion to the cable is visually displayed.
+@n	The red circle symbolizes the cable and the red line symbolizes the distance to the device.
+@n	At the bottom right, the calculated distance to the cable is displayed.
+@n	At the bottom left, the calculated current of the cable is displayed if the device is close enough.
+@n	The angle can be read visually, with the markings spaced at 15-degree intervals.
+
+@image html cable_monitor_graph.png width=50%
+
+
+Values
+======
+
+Pressing the center of the screen changes the display. This causes all calculated values to be output as a number.
+@n	This also makes the x and y axes visible, which are described in more detail in calculations.c.
+@n	Otherwise, the values correspond to the graphical values.
+
+@image html cable_monitor_values.png width=50%
+
+---
+@author	Marco Rau (raumar02@students.zhaw.ch)
+@date 	27.12.2022
+@bug 	No known bugs.
+*/

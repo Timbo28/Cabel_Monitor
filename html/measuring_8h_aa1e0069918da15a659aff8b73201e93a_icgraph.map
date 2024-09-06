@@ -1,0 +1,6 @@
+<map id="MEAS_return_data" name="MEAS_return_data">
+<area shape="rect" id="node1" title="returns the ADC_samples" alt="" coords="387,5,519,31"/>
+<area shape="rect" id="node2" href="$calculations_8c.html#a7f13fc088b583c68a82faa3fecb15d55" title="Splits the ADC_Samples array from measuring.c into four arrays." alt="" coords="255,5,339,31"/>
+<area shape="rect" id="node3" href="$calculations_8c.html#a2fc270c468765fb3fdc40855a172066b" title="Calculate angle, X and Y Position of the cable, from the FFT value." alt="" coords="104,5,207,31"/>
+<area shape="rect" id="node4" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main function." alt="" coords="5,5,56,31"/>
+</map>

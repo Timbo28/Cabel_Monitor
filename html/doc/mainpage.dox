@@ -1,0 +1,35 @@
+/**
+@mainpage Cable Monitor
+
+Firmware
+========
+
+This is the firmware code for the <b>Electronics-Project Modules</b>
+<b>ET.PM3: Cable-Monitor</b>
+@n in the <b>second year of the electronics engineering curriculum</b>
+at the School of Engineering of the Zurich University of Applied Sciences.
+
+@image html cable_monitor_device.png width=30%
+
+The firmware code is written for the evaluation board
+<b>32F429IDISCOVERY (Discovery kit with STM32F429ZI MCU)</b>.
+
+measuring.c contains functions to process the ADC values from the pads and Hall Effect sensors.
+@n	All necessary calculations for position determination can be found in calculations.c
+@n	The file menu.c allows the readout of the calculated values.
+@n	In buzzer.c are functions to control the buzzer.
+@n	pushbutton.c handles external interrupts.
+@n	main.c puts everything together and processes the input from the user.
+
+Related
+=======
+
+The <a href="user_interface.html"> User Interface </a> describes how to operate the user interface.
+@n	<a href="testing.html"> Testing </a> contains all the tests performed on the firmware.
+
+
+@author	Marco Rau (raumar02@students.zhaw.ch) and Tim Roos (roostim1@students.zhaw.ch)
+@date	27.12.2022
+
+@bug	No known bugs.
+*/

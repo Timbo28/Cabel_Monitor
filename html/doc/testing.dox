@@ -1,0 +1,25 @@
+/**
+@page testing Testing Firmware
+
+
+Every different module was tested separately, 
+eater with the debugger function of the STM32CubeIDE or with the Cable Monitor device itself. 
+@n Additionally, Matlab was used to double-check the output data from the FFT and 
+the positions calculations were checked with GeoGebra and VS-code.
+@n
+@n All the existing module where then merged together and tested again, if they would work as expected.
+@n
+@n
+@image html test_table.png width=70%
+@n
+@n
+@image html ADC_samples_plot.png width=80%
+
+@n
+@n Test date: 10.12.2022
+@n Tester: Tim Roos & Marco Rau (roostim1@students.zhaw.ch)
+
+---
+@author	Tim Roos (roostim1@students.zhaw.ch)
+@date 25.12.2022
+*/

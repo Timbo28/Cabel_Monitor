@@ -1,0 +1,4 @@
+<map id="BUZZER_get_status" name="BUZZER_get_status">
+<area shape="rect" id="node1" title="Check state of Buzzer." alt="" coords="104,5,244,31"/>
+<area shape="rect" id="node2" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main function." alt="" coords="5,5,56,31"/>
+</map>

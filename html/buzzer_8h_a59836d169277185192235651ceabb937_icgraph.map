@@ -1,0 +1,6 @@
+<map id="BUZZER_set_freq" name="BUZZER_set_freq">
+<area shape="rect" id="node1" title="Set a frequency." alt="" coords="487,5,612,31"/>
+<area shape="rect" id="node2" href="$buzzer_8c.html#a680f2c11b48eafa096d5ecb4acad62c4" title="Set a frequency." alt="" coords="304,5,439,31"/>
+<area shape="rect" id="node3" href="$buzzer_8c.html#a5f2104c8b5aaa9752e5fa799777fcedd" title="Play Nokia ringtone." alt="" coords="104,5,256,31"/>
+<area shape="rect" id="node4" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main function." alt="" coords="5,5,56,31"/>
+</map>

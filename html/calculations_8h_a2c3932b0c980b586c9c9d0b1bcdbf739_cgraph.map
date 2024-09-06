@@ -1,0 +1,13 @@
+<map id="calculate_pos" name="calculate_pos">
+<area shape="rect" id="node1" title="Calculate angle, X and Y Position of the cable, from the FFT value." alt="" coords="5,153,108,179"/>
+<area shape="rect" id="node2" href="$measuring_8c.html#a4e76bf488f4e0c67e5db6e9c2d2e5813" title="Initialise the ADC to be triggered by a timer." alt="" coords="172,5,315,31"/>
+<area shape="rect" id="node3" href="$measuring_8c.html#ae5ffaeaedb181995f259a61ec05240ee" title="Start the ADC and the timer." alt="" coords="168,55,319,80"/>
+<area shape="rect" id="node4" href="$calculations_8c.html#a26fa7bb8f1057136463eb0ca3852b58d" title="Calculate the current." alt="" coords="183,104,304,129"/>
+<area shape="rect" id="node5" href="$calculations_8c.html#ae85cc6a6b7f5a18091c7575508edc5fa" title="Transformers the ADC samples in to the frequency domain with a FFT." alt="" coords="191,153,295,179"/>
+<area shape="rect" id="node8" href="$calculations_8c.html#a91f9328a506206c333a0c6f5fe38e312" title="Checks if the X_Pos and the Y_Pos are not too large to be displayed on the Screen." alt="" coords="156,203,331,228"/>
+<area shape="rect" id="node9" href="$calculations_8c.html#adc56fd2039d8156d89775bc177be10f5" title="Clearing all four ADS samples arrays." alt="" coords="198,252,289,277"/>
+<area shape="rect" id="node10" href="$calculations_8c.html#a7f13fc088b583c68a82faa3fecb15d55" title="Splits the ADC_Samples array from measuring.c into four arrays." alt="" coords="201,301,285,327"/>
+<area shape="rect" id="node6" href="$calculations_8c.html#a8a87642323d7b62559f07dbd61786cc2" title="Averaging several FFT output values for each pad and Hall sensor." alt="" coords="379,153,541,179"/>
+<area shape="rect" id="node7" href="$calculations_8c.html#ad820a1efb7e9dc28d5da28e1775ccf42" title="Determines the distance of the cable to the pads from a look&#45;up table." alt="" coords="589,153,691,179"/>
+<area shape="rect" id="node11" href="$measuring_8c.html#aa1e0069918da15a659aff8b73201e93a" title="returns the ADC_samples" alt="" coords="394,301,526,327"/>
+</map>

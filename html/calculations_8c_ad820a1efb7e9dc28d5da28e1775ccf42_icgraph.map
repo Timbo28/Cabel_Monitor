@@ -1,0 +1,7 @@
+<map id="distance_LUT" name="distance_LUT">
+<area shape="rect" id="node1" title="Determines the distance of the cable to the pads from a look&#45;up table." alt="" coords="617,5,719,31"/>
+<area shape="rect" id="node2" href="$calculations_8c.html#a8a87642323d7b62559f07dbd61786cc2" title="Averaging several FFT output values for each pad and Hall sensor." alt="" coords="407,5,569,31"/>
+<area shape="rect" id="node3" href="$calculations_8c.html#ae85cc6a6b7f5a18091c7575508edc5fa" title="Transformers the ADC samples in to the frequency domain with a FFT." alt="" coords="255,5,359,31"/>
+<area shape="rect" id="node4" href="$calculations_8c.html#a2fc270c468765fb3fdc40855a172066b" title="Calculate angle, X and Y Position of the cable, from the FFT value." alt="" coords="104,5,207,31"/>
+<area shape="rect" id="node5" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main function." alt="" coords="5,5,56,31"/>
+</map>

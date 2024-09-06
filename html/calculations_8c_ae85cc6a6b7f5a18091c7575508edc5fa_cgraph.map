@@ -1,0 +1,5 @@
+<map id="calculate_FFT" name="calculate_FFT">
+<area shape="rect" id="node1" title="Transformers the ADC samples in to the frequency domain with a FFT." alt="" coords="5,5,109,31"/>
+<area shape="rect" id="node2" href="$calculations_8c.html#a8a87642323d7b62559f07dbd61786cc2" title="Averaging several FFT output values for each pad and Hall sensor." alt="" coords="157,5,320,31"/>
+<area shape="rect" id="node3" href="$calculations_8c.html#ad820a1efb7e9dc28d5da28e1775ccf42" title="Determines the distance of the cable to the pads from a look&#45;up table." alt="" coords="368,5,469,31"/>
+</map>

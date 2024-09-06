@@ -1,0 +1,19 @@
+digraph "get_current"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [label="get_current",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [color="steelblue1",style="solid"];
+  Node2 [label="Calculate_FFT",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$calculations_8c.html#a5eeedc14b7e26cf3a1bc163035e049d0",tooltip=" "];
+  Node2 -> Node3 [color="steelblue1",style="solid"];
+  Node3 [label="distance_LUT",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$calculations_8c.html#ad820a1efb7e9dc28d5da28e1775ccf42",tooltip=" "];
+  Node1 -> Node4 [color="steelblue1",style="solid"];
+  Node4 [label="Clear_Buffer",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$calculations_8c.html#a9b463e4ef11de3cf961c1d8fdb73cc01",tooltip=" "];
+  Node1 -> Node5 [color="steelblue1",style="solid"];
+  Node5 [label="Split_Array",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$calculations_8c.html#a8616f32de853aac9b1476975caf6fee0",tooltip=" "];
+  Node5 -> Node6 [color="steelblue1",style="solid"];
+  Node6 [label="MEAS_return_data",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$measuring_8c.html#aa1e0069918da15a659aff8b73201e93a",tooltip="returns the ADC_samples"];
+}
